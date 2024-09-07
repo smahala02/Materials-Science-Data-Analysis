@@ -112,3 +112,7 @@ Contributions are welcome! If you have suggestions or would like to add more dat
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Author
+- [smahala02](https://github.com/smahala02)
+
